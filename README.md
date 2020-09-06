@@ -1,4 +1,4 @@
-# Colab-jupyter-notebook-how-to-guide-
+# Colab-jupyter-notebook-how-to-guide
 This beginner's guide is written to share essential commands, tips and tricks that can be usefull when using Google Colab/Jupyter notebooks and save a lot of time.
 ## How to upload .py files to Google Colab?
 ### Uploading files to the session storge (short term)
