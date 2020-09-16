@@ -33,3 +33,8 @@ If you want to install a specific version of PyTorch and torchvision (for exampl
 !pip3 install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 Make sure to keep using the same CUDA version across the different libraries!
+
+To install requirements.txt use:
+```
+!pip3 install -r /content/drive/My\ Drive/project_folder/requirements.txt
+```
