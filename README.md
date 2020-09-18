@@ -30,8 +30,8 @@ To unzip a file from your Google "My drive" folder to your current working direc
 ```
 To extract a tar file from your google drive to the current working directory use:
 ```
-tar -xvf /content/drive/My\ Drive/file.tar
-
+!tar -xvf /content/drive/My\ Drive/file.tar
+```
 If you want to install a specific version of PyTorch and torchvision (for example pytorch 1.6.0 and torchvision 0.7.0 torchvision with CUDA 10.1)use the next command:
 ```
 !pip3 install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
