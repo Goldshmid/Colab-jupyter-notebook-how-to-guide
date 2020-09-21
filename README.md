@@ -42,6 +42,9 @@ To install requirements.txt use:
 ```
 !pip3 install -r /content/drive/My\ Drive/project_folder/requirements.txt
 ```
-
+To run .py file use:
+```
+%run filename.py 
+```
 ## Using GPU on Google Colab
 Just click on "RUNTIME" button in the main navigation bar, then press "change runtime type" and in the Hardware accelerator section choose "GPU".
